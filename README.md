@@ -1,5 +1,14 @@
-### Hi there 👋
+### It's-a me, Caio 👨‍🔧
+Robotic Developper - Always willing to contribute to open source projects - Science is the Future! 
+- 🔭 I’m currently working on [BIR's](https://github.com/Brazilian-Institute-of-Robotics) 
+- 👾 Creating cool stuffs at [ORise's](https://github.com/orise-robotics) (Open Source hoobie projects)
+- 🌱 I’m currently learning [ROS2](https://docs.ros.org/en/foxy/index.html)
+- 📫 How to reach me: caioaamaral@gmail.com | [LinkedIn](https://www.linkedin.com/in/caioaamaral/)
 
+
+![Anurag's github stats](https://github-readme-stats-sigma-sepia.vercel.app/api?username=caioaamaral&count_private=true&hide=stars&show_icons=true&include_all_commits=true&theme=dark)
+
+_Credits to [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for this wonderful dashboard_
 <!--
 **caioaamaral/caioaamaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
