@@ -6,7 +6,7 @@ Robotic Developper - Always willing to contribute to open source projects - Scie
 - 📫 How to reach me: caioaamaral@gmail.com | [LinkedIn](https://www.linkedin.com/in/caioaamaral/)
 
 
-![Anurag's github stats](https://github-readme-stats-sigma-sepia.vercel.app/api?username=caioaamaral&count_private=true&hide=stars&show_icons=true&include_all_commits=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats-sigma-sepia.vercel.app/api?username=caioaamaral&count_private=true&hide=stars&show_icons=true&include_all_commits=false&theme=dark)
 
 _Credits to [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for this wonderful dashboard_
 <!--
