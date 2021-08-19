@@ -1,5 +1,5 @@
 ### It's-a me, Caio 👨‍🔧
-Robotic Developper - Always willing to contribute to open source projects - Science is the Future! 
+Robotics Developper - Always willing to contribute to open source projects - Science is the Future! 
 - 🔭 I’m currently working on [BIR's](https://github.com/Brazilian-Institute-of-Robotics) 
 - 👾 Creating cool stuffs at [ORise's](https://github.com/orise-robotics) (Open Source hooby projects)
 - 🌱 I’m currently learning [ROS2](https://docs.ros.org/en/foxy/index.html)
